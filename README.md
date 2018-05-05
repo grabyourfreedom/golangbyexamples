@@ -1,2 +1,2 @@
 # golangbyexamples
-Go by Examples
+Go by Examples. Test
